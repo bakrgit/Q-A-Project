@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+}
+.color-body {
+  height: 100vh;
+  background-color: #f8f8f8;
+}
+.font {
+  font-family: "Almarai", sans-serif;
+  font-size: 15px;
+}
+
+
+.btn-color {
+  border: none;
+  border-radius: 8px;
+  color: white;
+  background-color: #224f61;
+  padding: 8px;
+}
+.btn-color:hover {
+  color: rgb(148, 148, 162);
+}
+
+.img-avatar {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+.mt-0 {
+  margin-top: 0;
+}
+
+.font-decription {
+  color: #8c8c8c;
+  font-family: Almarai;
+  font-size: 16px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 20px;
+  text-align: right;
+}
+
+.font-title {
+  font-family: Almarai;
+  font-size: 21px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 28px;
+  text-align: right;
+}
